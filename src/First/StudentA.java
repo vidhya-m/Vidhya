@@ -4,7 +4,7 @@ import java.lang.reflect.Method;
 /**
  * Created by expert on 8/27/18.
  *
- * 
+ *
  */
 public class StudentA {
     @College(name="xxx",location="tcr")
